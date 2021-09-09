@@ -1,0 +1,16 @@
+.btn-rounded{
+    background-color: #A2DBFA;
+    padding: 10px 20px;
+    border-radius: 19px;
+    box-shadow: 0px 1px 9px 1px #A2DBFA;
+    color: #053742;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.2s;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-rounded:hover{
+    color: #fff;
+}
